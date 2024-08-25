@@ -8,4 +8,8 @@ public class Op {
     public void despedida() {
         System.out.println("adios");
     }
+
+    public void decirQuetal() {
+        System.out.println("que tal?");
+    }
 }
